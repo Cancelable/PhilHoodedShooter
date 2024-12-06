@@ -12,4 +12,9 @@ public interface Ports {
         int OPERATOR = 1;
         int DEBUGGER = 2;
     }
+    public interface SchoolShooter {
+        int HOOD = 3;
+        int CENTRAL = 4;
+        int BACK = 5;
+    }
 }
